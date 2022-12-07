@@ -62,17 +62,15 @@ li > a {
 #certifications{
    display: flex;
    justify-content: space-between;
-   flex-wrap: wrap;
    align-items: center;
    text-align: center;
    height: 100%;
-   margin: 10px;
    }
 
    #fccrwd{
-      width: 60%;
+      width: 40%;
    }
 
    #sololearnhtml{
-      width: 60%;
+      width: 40%;
    }
