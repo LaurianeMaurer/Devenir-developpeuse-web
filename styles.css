@@ -6,6 +6,7 @@
 body{
    font-family: courier new;
    margin: 10px;
+   text-align: center;
    }
 
 #navbar{
@@ -28,10 +29,12 @@ li > a {
          color: white;
          text-decoration: none;
        }
-
+#attention{
+       font-size: 15px;
+       Font-weight:bolder;
+}
 #salut{
       width: 100%;
-      text-align: center;
     }  
 
 #fleche{
@@ -42,10 +45,34 @@ li > a {
    border-radius: 50%;
    width: 200px;
 }
-#Mon_parcours{
-   text-align: center;
-}
 
 #carte{
-   text-align: center;
+   width: 70%;
 }
+
+
+#metier{
+   text-align: justify;
+   font-size: 17px;
+   font-weight: 700;
+   text-indent:100px;
+
+}
+
+#certifications{
+   display: flex;
+   justify-content: space-between;
+   flex-wrap: wrap;
+   align-items: center;
+   text-align: center;
+   height: 100%;
+   margin: 10px;
+   }
+
+   #fccrwd{
+      width: 60%;
+   }
+
+   #sololearnhtml{
+      width:60%;
+   }
