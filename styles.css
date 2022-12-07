@@ -52,7 +52,7 @@ li > a {
 
 
 #metier{
-   text-align: right;
+   text-align: justify;
    font-size: 15px;
    font-weight: 700;
    text-indent:100px;
@@ -74,5 +74,5 @@ li > a {
    }
 
    #sololearnhtml{
-      width:60%;
+      width: 60%;
    }
