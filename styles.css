@@ -10,7 +10,7 @@ body{
    }
 
 #navbar{
-      width: 100%;
+      
       height: 80px;
       background: black;
     }
@@ -21,8 +21,8 @@ nav > ul {
       justify-content: space-between;
       flex-wrap: wrap;
       align-items: center;
-      height: 100%;
-      width: 90%
+      height: 80px;
+      margin: 40px;
       }
 
 li > a {
@@ -34,8 +34,13 @@ li > a {
        Font-weight:bolder;
 }
 #salut{
-      width: 100%;
     }  
+
+#parcours{ 
+    }  
+
+#motivations{   
+    }     
 
 #fleche{
    width:100px;
