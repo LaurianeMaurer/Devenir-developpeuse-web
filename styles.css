@@ -10,7 +10,7 @@ body{
 
 #navbar{
       
-      height: 80px;
+      height: 100px;
       background: black;
     }
 
@@ -20,7 +20,7 @@ nav > ul {
       justify-content: space-between;
       flex-wrap: wrap;
       align-items: center;
-      height: 80px;
+      height: 100px;
       margin: 40px;
       }
 
@@ -31,17 +31,18 @@ li > a {
 #attention{
        font-size: 15px;
        Font-weight:bolder;
+       margin: 20px 50px 0 50px;
 }
 #salut{
-   margin: 0px 30px 0px 30px;
+   margin: 0px 50px 0px 50px;
     }  
 
 #parcours{ 
-   margin: 0px 30px 0px 30px;
+   margin: 0px 50px 0px 50px;
     }  
 
 #motivations{ 
-   margin: 0px 30px 0px 30px;  
+   margin: 0px 50px 0px 50px;  
     }     
 
 #fleche{
@@ -71,24 +72,35 @@ li > a {
    justify-content: space-between;
    align-items: center;
    text-align: center;
+   width: 90%;
    }
 
    #fccrwd{
-      width: 400px;
-      height:300px;
+      width: 300px;
+      height:200px;
    }
 
    #sololearnhtml{
-      width: 400px;
-      height:300px;
+      width: 300px;
+      height:200px;
    }
 
    #sololearnphp{
-      width: 400px;
-      height:300px;
+      width: 300px;
+      height:200px;
    }
 
    #sololearncss{
-      width: 400px;
-      height:300px;   
+      width: 300px;
+      height:200px;   
+   }
+
+   #footer{
+      background-color: black;
+      height: 100px;
+   }
+   #email{
+      width: 60px;
+      height: 40px;
+      margin: 30px auto auto auto;
    }
