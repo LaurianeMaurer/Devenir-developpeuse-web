@@ -78,21 +78,25 @@ li > a {
    #fccrwd{
       width: 300px;
       height:200px;
+      margin: 2px 2px 2px 2px;
    }
 
    #sololearnhtml{
       width: 300px;
       height:200px;
+      margin: 2px 2px 2px 2px;
    }
 
    #sololearnphp{
       width: 300px;
       height:200px;
+      margin: 2px 2px 2px 2px;
    }
 
    #sololearncss{
       width: 300px;
-      height:200px;   
+      height:200px;
+      margin: 2px 2px 2px 2px;   
    }
 
    #footer{
@@ -100,12 +104,12 @@ li > a {
       height: 100px;
    }
    #email{
-      width: 59px;
-      height: 40px;
+      width: 40px;
+      height: 25px;
       margin: 30px auto auto auto;
    }
    #in{
-      width: 59px;
-      height: 59px;
+      width: 40px;
+      height: 40px;
       margin: 30px auto auto auto;
    }
