@@ -69,33 +69,33 @@ li > a {
 
 #certifications{
    display: flex;
-   justify-content: space-between;
+   justify-content: space-evenly;
    align-items: center;
    text-align: center;
    width: 90%;
    }
 
    #fccrwd{
-      width: 300px;
-      height:200px;
+      width: 270px;
+      height: 160px;
       margin: 2px 2px 2px 2px;
    }
 
    #sololearnhtml{
-      width: 300px;
-      height:200px;
+      width: 270px;
+      height: 160px;
       margin: 2px 2px 2px 2px;
    }
 
    #sololearnphp{
-      width: 300px;
-      height:200px;
+      width: 270px;
+      height: 160px;
       margin: 2px 2px 2px 2px;
    }
 
    #sololearncss{
-      width: 300px;
-      height:200px;
+      width: 270px;
+      height: 160px;
       margin: 2px 2px 2px 2px;   
    }
 
