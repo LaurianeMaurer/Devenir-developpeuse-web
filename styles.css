@@ -69,13 +69,20 @@ li > a {
    justify-content: space-between;
    align-items: center;
    text-align: center;
-   height: 100%;
+   margin:0px 40px 0px 0px;
    }
 
    #fccrwd{
-      width: 40%;
+      width: 300px;
+      height:200px;
    }
 
    #sololearnhtml{
-      width: 40%;
+      width: 300px;
+      height:200px;
+   }
+
+   #sololearnphp{
+      width: 300px;
+      height:200px;
    }
